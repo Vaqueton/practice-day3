@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+
+body {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    text-align: center;
+    color: blue;
+
+}
+.container-fluid {
+    background-color: grey;
+}
+@media (min-width: 588px) {
+    .container-fluid {
+        background-color: pink;
+    }
+}
